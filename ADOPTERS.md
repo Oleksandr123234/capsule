@@ -13,6 +13,9 @@ This is a list of companies that have adopted Capsule, feel free to open a Pull-
 ### [KubeRocketCI](https://docs.kuberocketci.io/)
 ![KubeRocketCI](https://raw.githubusercontent.com/Oleksandr123234/capsule/refs/heads/main/assets/Logo_150x150.png)
 
+### [KubeRocketCI](https://docs.kuberocketci.io/)
+![KubeRocketCI](https://raw.githubusercontent.com/Oleksandr123234/capsule/refs/heads/main/assets/Logo_267x150_with_title.png)
+
 ### [Fastweb](https://www.fastweb.it/)
 ![Fastweb](https://www.fastweb.it/grandi-aziende/gfx/common/logo-fastweb-header.svg)
 
