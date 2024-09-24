@@ -10,7 +10,7 @@ This is a list of companies that have adopted Capsule, feel free to open a Pull-
 ### [Department of Defense](https://www.defense.gov/)
 ![United States Department of Defense](https://www.access-board.gov/images/dod-seal.png)
 
-### [KubeRocketCI]([https://epam.github.io/edp-install/](https://docs.kuberocketci.io/))
+### [KubeRocketCI](https://docs.kuberocketci.io/)
 ![KubeRocketCI](https://raw.githubusercontent.com/epam/edp-install/master/docs/assets/edp-logo-150x150-black.png)
 
 ### [Fastweb](https://www.fastweb.it/)
